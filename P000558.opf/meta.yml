@@ -1,15 +1,16 @@
-id: opecha:P000558
+id: P000558
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W29653
   title: ལས་བརྒྱ་པ།
-  volume:
+  author: ''
+  volumes:
     8e26573b98264021bc5c3e13b6983620:
       image_group_id: I1KG20827
       title: Volume 1 of las brgya tham pa
       volume_number: 1
       total_pages: 806
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ལས་བརྒྱ་པ།
   author: ''
